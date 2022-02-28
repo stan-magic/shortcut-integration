@@ -1,2 +1,2 @@
 # shortcut-integration
-test
+test github
